@@ -6,7 +6,7 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 
 
 ## Pearson correlation of degree centrality and betweenness centrality
-![deg_bwc_hadgm2.png](supplementary figures/deg_bwc_hadgm2.png)
-![deg_bwc_lswtm.png](supplementary figures/deg_bwc_mixture.png)
-![deg_bwc_shm.png](supplementary figures/deg_bwc_shm.png)
-![deg_bwc_real.png](supplementary figures/deg_bwc_real.png)
+![deg_bwc_hadgm2.png](supplementary%20figures/deg_bwc_hadgm2.png)
+![deg_bwc_lswtm.png](supplementary%20figures/deg_bwc_mixture.png)
+![deg_bwc_shm.png](supplementary%20figures/deg_bwc_shm.png)
+![deg_bwc_real.png](supplementary%20figures/deg_bwc_real.png)
