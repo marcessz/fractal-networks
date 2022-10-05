@@ -70,7 +70,8 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ## Small-world property - growing network models
 
 ## Mean CV of the betweenness centrality for the uv-flower and the RBFM
-![deg_bwc_uvflower.png](supplementary%20figures/deg_bwc_uvflower.png)
+![deg_bwc_uvflower.png](supplementary%20figures/deg_bwc_cv_uvflower.png)
+![deg_bwc_rbfm.png](supplementary%20figures/deg_bwc_cv_rbfm.png)
 
 ## Pearson correlation of degree centrality and betweenness centrality
 ![deg_bwc_hadgm2.png](supplementary%20figures/deg_bwc_hadgm2.png)
