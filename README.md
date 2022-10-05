@@ -62,12 +62,18 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![neighbour_connectivity_social.png](supplementary%20figures/neighbour_connectivity_social.png)
 
 ## Edge betweenness centrality
-
+![ebc_shm.png](supplementary%20figures/ebc_shm.png)
+![ebc_hadgm.png](supplementary%20figures/ebc_hadgm.png)
+![ebc_uv.png](supplementary%20figures/ebc_uv.png)
+![ebc_rbfm.png](supplementary%20figures/ebc_rbfm.png)
 
 ## Small-world property - normalized average path length and diameter
-
+![diam_avgpath_shm.png](supplementary%20figures/diam_avgpath_shm.png)
+![diam_avgpath_hadgm.png](supplementary%20figures/diam_avgpath_hadgm.png)
+![diam_avgpath_lswtm.png](supplementary%20figures/diam_avgpath_lswtm.png)
 
 ## Small-world property - growing network models
+![smallworld_rbfm.png](supplementary%20figures/smallworld_rbfm.png)
 
 ## Mean CV of the betweenness centrality for the uv-flower and the RBFM
 ![deg_bwc_uvflower.png](supplementary%20figures/deg_bwc_cv_uvflower.png)
