@@ -8,11 +8,13 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![assortativity_shm.png](supplementary%20figures/assortativity_shm.png)
 ![assortativity_hadgm.png](supplementary%20figures/assortativity_hadgm.png)
 ![assortativity_rbfm.png](supplementary%20figures/assortativity_rbfm.png)
+![assortativity_real_R.png](supplementary%20figures/assortativity_real_R.png)
 
 ## Hub repulsion
 ![hub_rep_shm.png](supplementary%20figures/hub_rep_shm.png)
 ![hub_rep_rbfm.png](supplementary%20figures/hub_rep_rbfm.png)
 ![hub_rep_lswtm.png](supplementary%20figures/hub_rep_lswtm.png)
+![hub_rep_real_R.png](supplementary%20figures/hub_rep_real_R.png)
 
 ## Long-range correlation - fluctuation analysis
 ![fluctuation_shm.png](supplementary%20figures/fluctuation_shm.png)
@@ -66,11 +68,14 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![ebc_hadgm.png](supplementary%20figures/ebc_hadgm.png)
 ![ebc_uv.png](supplementary%20figures/ebc_uv.png)
 ![ebc_rbfm.png](supplementary%20figures/ebc_rbfm.png)
+![ebc_real_R.png](supplementary%20figures/ebc_real_R.png)
 
 ## Small-world property - normalized average path length and diameter
 ![diam_avgpath_shm.png](supplementary%20figures/diam_avgpath_shm.png)
 ![diam_avgpath_hadgm.png](supplementary%20figures/diam_avgpath_hadgm.png)
 ![diam_avgpath_lswtm.png](supplementary%20figures/diam_avgpath_lswtm.png)
+![diam_real_R.png](supplementary%20figures/diam_real_R.png)
+![avgpath_real_R.png](supplementary%20figures/avgpath_real_R.png)
 
 ## Small-world property - growing network models
 ![smallworld_rbfm.png](supplementary%20figures/smallworld_rbfm.png)
