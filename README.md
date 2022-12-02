@@ -10,7 +10,7 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![assortativity_rbfm.png](supplementary%20figures/assortativity_rbfm.png)
 ![assortativity_real_R.png](supplementary%20figures/assortativity_real_R.png)
 
-## Hub repulsion
+## Hub connection
 ![hub_rep_shm.png](supplementary%20figures/hub_rep_shm.png)
 ![hub_rep_rbfm.png](supplementary%20figures/hub_rep_rbfm.png)
 ![hub_rep_lswtm.png](supplementary%20figures/hub_rep_lswtm.png)
