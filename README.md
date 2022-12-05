@@ -13,8 +13,13 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![assortativity_shm4.png](supplementary%20figures/shm_4.png)
 ![assortativity_shm5.png](supplementary%20figures/shm_5.png)
 
+### Assortativity of the HADGM model
 ![assortativity_hadgm.png](supplementary%20figures/assortativity_hadgm.png)
+
+### Assortativity of the RBFM model
 ![assortativity_rbfm.png](supplementary%20figures/assortativity_rbfm.png)
+
+### Assortativity of the real-world networks
 ![assortativity_real_R.png](supplementary%20figures/assortativity_real_R.png)
 
 ## Hub connection
