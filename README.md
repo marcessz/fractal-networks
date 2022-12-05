@@ -13,19 +13,24 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![assortativity_shm4.png](supplementary%20figures/shm_4.png)
 ![assortativity_shm5.png](supplementary%20figures/shm_5.png)
 
-### Assortativity of the HADGM model
+### Assortativity of the HADG model
 ![assortativity_hadgm.png](supplementary%20figures/assortativity_hadgm.png)
 
-### Assortativity of the RBFM model
+### Assortativity of the RBF model
 ![assortativity_rbfm.png](supplementary%20figures/assortativity_rbfm.png)
 
 ### Assortativity of the real-world networks
 ![assortativity_real_R.png](supplementary%20figures/assortativity_real_R.png)
 
 ## Hub connection
+### SHM model
 ![hub_rep_shm.png](supplementary%20figures/hub_rep_shm.png)
+### RBFM 
 ![hub_rep_rbfm.png](supplementary%20figures/hub_rep_rbfm.png)
+### LSwTM
 ![hub_rep_lswtm.png](supplementary%20figures/hub_rep_lswtm.png)
+
+### Real networks
 ![hub_rep_real_R.png](supplementary%20figures/hub_rep_real_R.png)
 
 ## Long-range correlation - fluctuation analysis
