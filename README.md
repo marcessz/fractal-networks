@@ -42,14 +42,24 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 ![fluctuation_real.png](supplementary%20figures/fluctuation_real.png)
 
 ## Long-range correlation - hub distances
+
+### SHM
 ![long_range_hub_rep_shm.png](supplementary%20figures/long_range_hub_rep_shm.png)
+
+### HADGM
 ![long_range_hub_rep_hadgm_2.png](supplementary%20figures/long_range_hub_rep_hadgm_2.png)
 ![long_range_hub_rep_hadgm_3.png](supplementary%20figures/long_range_hub_rep_hadgm_3.png)
 ![long_range_hub_rep_hadgm_4.png](supplementary%20figures/long_range_hub_rep_hadgm_4.png)
+
+### (u,v)-flower
 ![long_range_hub_rep_uv_800.png](supplementary%20figures/long_range_hub_rep_uv_800.png)
 ![long_range_hub_rep_uv_2000.png](supplementary%20figures/long_range_hub_rep_uv_2000.png)
 ![long_range_hub_rep_uv_5000.png](supplementary%20figures/long_range_hub_rep_uv_5000.png)
+
+### RBFM
 ![long_range_hub_rep_rbfm.png](supplementary%20figures/long_range_hub_rep_rbfm.png)
+
+### Real-world networks
 ![long_range_hub_rep_brain.png](supplementary%20figures/long_range_hub_rep_brain.png)
 ![long_range_hub_rep_chems.png](supplementary%20figures/long_range_hub_rep_chems.png)
 ![long_range_hub_rep_foodweb.png](supplementary%20figures/long_range_hub_rep_foodweb.png)
