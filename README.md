@@ -5,7 +5,14 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 # Supplementary material
 
 ## Assortativity
+
+### Assortativity of the SHM model
 ![assortativity_shm.png](supplementary%20figures/assortativity_shm.png)
+
+![assortativity_shm3.png](supplementary%20figures/shm_3.png)
+![assortativity_shm4.png](supplementary%20figures/shm_4.png)
+![assortativity_shm5.png](supplementary%20figures/shm_5.png)
+
 ![assortativity_hadgm.png](supplementary%20figures/assortativity_hadgm.png)
 ![assortativity_rbfm.png](supplementary%20figures/assortativity_rbfm.png)
 ![assortativity_real_R.png](supplementary%20figures/assortativity_real_R.png)
