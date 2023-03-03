@@ -5,13 +5,18 @@ Supplementary material for the work titled *Towards a Better Understanding of th
 The paper can be found at [this arxiv link](https://arxiv.org/abs/2212.03120)
 
 ## How to Cite
-```
-@article{zakar2022towards,
+```  
+@article{zakar2023towards,
   title={Towards a Better Understanding of the Characteristics of Fractal Networks},
   author={Zakar-Poly\'ak, Enik\H{o} and Nagy, Marcell and Molontay, Roland},
-  journal={arXiv preprint arXiv:2210.15505},
-  year={2022}
-  }
+  journal={Applied Network Science},
+  volume={8},
+  number={17},
+  pages={1--34},
+  year={2023},
+  publisher={SpringerOpen}
+}
+  
 ```
 
 
