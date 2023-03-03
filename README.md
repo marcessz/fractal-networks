@@ -16,7 +16,6 @@ The paper has been published in Applied Network Science and it can be found at [
   year={2023},
   publisher={SpringerOpen}
 }
-  
 ```
 
 
