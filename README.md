@@ -2,7 +2,7 @@
 Supplementary material for the work titled *Towards a Better Understanding of the Characteristics of Fractal Networks* - E. Zakar-Polyák, M. Nagy, & R. Molontay
 
 
-The paper can be found at [this link](https://trebuchet.public.springernature.app/get_content/b4530b22-790d-4f73-968e-d0c587c358a6)
+The paper has been published in Applied Network Science and it can be found at [this link](https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00537-8)
 
 ## How to Cite
 ```  
