@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2212.03120-b31b1b.svg)](https://arxiv.org/abs/2212.03120)
+
 # Fractal networks
 Supplementary material for the work titled *Towards a Better Understanding of the Characteristics of Fractal Networks* - E. Zakar-Polyák, M. Nagy, & R. Molontay
 
